@@ -1,0 +1,16 @@
+.foren {
+    bottom: 0;
+    position: fixed;
+    background-color: white;
+    opacity: 0.75;
+    z-index: 1;
+}
+
+.foren .row .col {
+    text-align: center;
+}
+
+.img-content {
+    text-align: center;
+    margin: auto;
+}
